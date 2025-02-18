@@ -8,3 +8,4 @@ seaborn
 streamlit
 imblearn
 focal-loss
+streamlit
