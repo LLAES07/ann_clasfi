@@ -12,3 +12,5 @@ Esta aplicación web predice la probabilidad de que un cliente abandone (churn) 
 
 ### Despliegue
 - Integración del modelo en una aplicación Streamlit para una experiencia interactiva.
+
+Para ver la aplicación https://annclasfi-ahlhvyamzkb2rrwpla3zjw.streamlit.app/
